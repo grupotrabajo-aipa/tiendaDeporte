@@ -2,6 +2,7 @@ package es.tienda.modelos;
 
 /**
  * @author IdairaSuanez
+ *
  */
 public class Proveedor extends Persona {
 
