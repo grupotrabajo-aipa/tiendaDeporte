@@ -1,6 +1,7 @@
 package es.tienda.modelos;
 
 /**
+ * Clase clientes con su refactorizacion
  * @author ana
  */
 public class Cliente extends Persona {
